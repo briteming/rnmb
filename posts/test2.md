@@ -1,5 +1,6 @@
 ---
 title: '测试2'
+metaTitle: '测试2'
 date: '2025-11-24T20:50:00'
 tags:
   - misc1
